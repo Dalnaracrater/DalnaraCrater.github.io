@@ -2,94 +2,112 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yongjin Han
+    # - name: Date of Birth
+    #   value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's degree
+      institution: University of California, Davis, CA, United States
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Computer Science
+        - Advised by Prof. Ian Davidson
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Bacheor of Science and Engineering
+      institution: Dongguk University, Seoul, Republic of Korea
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Computer Science and Engineering
+        - Advised by Prof. Yunsik Son
+        - I was on leave due to my military service
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Member
+      institution: Ian Davidson's lab, UC Davis
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Study fairness in machine learning (clustering, unsupervised learning) and constraint programming
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Vice President
+      institution: Korean Graduate Student Assoication @ UC Davis
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Organize events for Korean graduate students (ms, phd, post-doc, visiting scholar)
+        - Get sponsorship from various organizations
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Programming Language and Secure Software lab, Dongguk University
+      year: 2019 - 2021
       description:
+        - Research on programming language (program synthesis, compiler, VM, program analysis, etc) and secure software
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: President
+      institution: Boan Farm (Computer Security Club), Dongguk University
+      year: 2020 - 2021
+      description:
+        - Lead a security group focusing on system hacking, pwnable
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Team Member
+      institution: Cert, The Capital Defence Command, Republic of Korea Army
+      year: 2017 - 2019
+      description:
+        - Monitor traffic, intrusion detection logs such as DDOS, spoofing, and viruses
+        - Deal with computer emergent accidents
+        - Audit other soldiers (from staff sergeant to lieutenant colonel) whether they consistently comply with security rules or not
+
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - title: Best Paper
+      year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Summer Conference, Korea Multi Media Society, Korea Federation of Information Technology Societies
+    - title: Silver Prize
+      year: 2017
       items: 
-        - Max Planck Medal
+        - Programming Context at Dongguk University
+    - title: Bronze Prize
+      year: 2016
+      items:
+        - Programming Context at Dept of CSE, Dongguk University
 
-- title: Academic Interests
+- title: Patents
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Automated Debugger with Program Synthesis and Fault Localization
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Dongguk University Industry-Academic Cooperation Foundation (2020)
+        - KR Patent No. 1020200176727
+        - Korea Intellectual Property Right Information System.
+
+- title: Certificates
+  type: time_table
+  contents:
+    - year: 2016
+      items: 
+        - Industrial engineer information secuirty, Korea Internet & Security Agency (KISA)
 
 - title: Other Interests
   type: list

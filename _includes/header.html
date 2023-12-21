@@ -51,16 +51,6 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_nav_title %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
-                  {%- if page.url contains 'blog' -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a>
-              </li>
-              {%- endif %}
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
@@ -94,11 +84,23 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+              {% if site.blog_nav_title %}
+              <!-- Blog -->
+              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
+                  {%- if page.url contains 'blog' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+              
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">
-                <button id="light-toggle" title="Change theme">
+                <button id="light-toggle" title="dark mode is classy!. Yongjin">
                   <i class="fa-solid fa-moon"></i>
                   <i class="fa-solid fa-sun"></i>
                 </button>

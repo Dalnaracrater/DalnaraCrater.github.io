@@ -1,8 +1,10 @@
 github_users:
+  - dalnaracrater
   - torvalds
   - alshedivat
 
 github_repos:
+  - CSID-DGU/2020-1-CECD3-WAS-6
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
