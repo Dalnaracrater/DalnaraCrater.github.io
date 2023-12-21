@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Program Synthesis"
+title: Program Synthesis
 date: 2020-02-08 18:00:00 -0400
-categories: Research Programming-language
+tags: Research Programming-language
 featured: true
 ---
 

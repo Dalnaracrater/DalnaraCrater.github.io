@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(DreamHack) blind-command"
-date: 2021-04-06 05:24:00 -0400
-categories: Security CTF
+title: (DreamHack) blind-command
+date: 2021-04-06 05:24:00
+tags: Security CTF
 ---
 
 Blind command injection은 입력 값을 통해 os의 명령어를 실행시키는 취약점이다. 보통은 입력 값을 검증하고 (';', '#'과 같은 값 포함 여부 검증), 사용자 계정 권한 설정을 통해 예방할 수 있다. 특히 root 권한은 부여하지 않도록 주의한다.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(DreamHack) csrf-1"
-date: 2021-03-30 05:24:00 -0400
-categories: Security CTF
+title: (DreamHack) csrf-1
+date: 2021-03-30 05:24:00
+tags: Security CTF
 ---
 
 CSRF(Cross Script Request Forgery)는 클라이언트의 권한을 이용해서 의도하지 않은 요청을 하는 취약점이다.

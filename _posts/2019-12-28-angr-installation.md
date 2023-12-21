@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "angr installation"
-date: 2019-12-28 05:24:00 -0400
-categories: Programming-language
+title: angr installation
+date: 2019-12-28 05:24:00
+tags: Programming-language
 ---
 angr is a powerful analysis tool.
 you can download it by using this command.

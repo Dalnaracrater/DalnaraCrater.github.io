@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Open Source License"
-date: 2020-07-21 05:24:00 -0400
-categories: Open-source License
+title: Open Source License
+date: 2020-07-21 05:24:00
+tags: Open-source License
 ---
 # 오픈소스 라이센스
 - GPL license

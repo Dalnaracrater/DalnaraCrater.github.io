@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(DreamHack) command-injection-1"
-date: 2021-03-30 05:24:00 -0400
-categories: Security CTF
+title: (DreamHack) command-injection-1
+date: 2021-03-30 05:24:00
+tags: Security CTF
 ---
 
 command injection은 말 그대로 명령어를 주입하여 해당 명령어를 실행시키는 취약점이다.

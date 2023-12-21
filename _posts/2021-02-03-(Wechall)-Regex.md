@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(Wechall) Regex 1"
+title: (Wechall) Regex 1
 date: 2021-02-03 05:24:00 -0400
-categories: Security CTF
+tags: Security CTF
 ---
 
 # (Wechall) Training Regex write up

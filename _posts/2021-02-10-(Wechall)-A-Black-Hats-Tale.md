@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(Wechall) A Black Hats Tale"
-date: 2021-02-10 05:24:00 -0400
-categories: Security CTF
+title: (Wechall) A Black Hats Tale
+date: 2021-02-10 05:24:00
+tags: Security CTF
 ---
 
 ## 문제 풀이

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(DreamHack) file-download-1"
-date: 2021-03-23 05:24:00 -0400
-categories: Security CTF
+title: (DreamHack) file-download-1
+date: 2021-03-23 05:24:00
+tags: Security CTF
 ---
 
 파일 다운로드 취약점은 ../과 같이 url의 경로를 조작하여 파일을 읽거나 다운로드 하는 취약점이다.

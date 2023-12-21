@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Lazy Evaluation"
-date: 2020-07-12 05:24:00 -0400
-categories: Research Programming-language
+title: Lazy Evaluation
+date: 2020-07-12 05:24:00
+tags: Research Programming-language
 ---
 # Lazy Evaluation: 지연 계산법 (느긋한 계산법)
 

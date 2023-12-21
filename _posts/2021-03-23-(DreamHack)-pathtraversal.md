@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(DreamHack) pathtraversal"
-date: 2021-03-23 05:24:00 -0400
-categories: Security CTF
+title: (DreamHack) pathtraversal
+date: 2021-03-23 05:24:00
+tags: Security CTF
 ---
 
 Path traversal은 URL의 경로를 임의로 조작하여 의도하지 않는 api 실행 및 파일 접근을 가능하게 하는 취약점입니다. (cf. directory listing)

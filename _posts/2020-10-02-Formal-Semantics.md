@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Formal Semantics"
-date: 2020-10-02 05:24:00 -0400
-categories: Programming-language
+title: Formal Semantics
+date: 2020-10-02 05:24:00
+tags: Programming-language
 featured: true
 ---
 # Formal Semantics

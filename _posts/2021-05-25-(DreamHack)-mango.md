@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(DreamHack) Mango"
-date: 2021-05-25 05:24:00 -0400
-categories: Security CTF
+title: (DreamHack) Mango
+date: 2021-05-25 05:24:00
+tags: Security CTF
 ---
 
 NoSQL은 RDMS와는 달리 쿼리문 없이도 데이터베이스에 저장된 데이터를 조작할 수 있는 개념이다. 본 문제에서는 NoSQL에 Blind injection을 수행하여 안에 저장된 데이터를 조회하도록 한다.

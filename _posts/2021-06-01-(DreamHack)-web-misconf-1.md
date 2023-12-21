@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "(DreamHack) web-misconf-1"
-date: 2021-06-01 05:24:00 -0400
+title: (DreamHack) web-misconf-1
+date: 2021-06-01 05:24:00
 description: web-misconf
 # tags: formatting
-categories: Security CTF
+tags: Security CTF
 ---
 
 네트워크 장비, CCTV 등 여러 전자제품은 구매를 하면 초기 비밀번호가 설정되어 있다. 그런데 구입 후 이를 변경해주지 않으면 이를 악용할 수 있는 가능성이 존재한다. 해당 문제도 비슷한 시각에서 출제된 문제라고 생각한다.
