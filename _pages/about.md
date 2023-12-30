@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. MSCS student @ UC Davis
+subtitle: MSCS student @UC Davis
 
 profile:
   align: left
@@ -18,7 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am interested in programming language (formal verification, program synthesis, compiler optimization), constraint programming, fairness in machine learning, and cyber security for reliable and secure software. My research goal is to verify programs and develop reliable and secure software with provable solutions through program synthesis and formal verification.
+My research goal is to verify programs and develop reliable and secure software with provable solutions through program synthesis and formal verification.
+
+I am interested in programming language (formal verification, program synthesis, compiler optimization), constraint programming, fairness in machine learning, and cyber security for reliable and secure software.
+
+Currently, I am a Master's student in Computer Science at University of California, Davis advised by [Prof. Ian Davidson](https://www.cs.ucdavis.edu/~davidson/). Under supervision of Prof. Davidson, I study fair clustering and constraints programing building on my previous experience. I obtained my Bachelor's degree in Computer Science and Engineering at Dongguk University. [Prof. Yunsik Son](https://sites.google.com/dgu.ac.kr/plass/english?authuser=0) opened my eyes to programming language and related research area.
+
+In my free time, I usually [<u>cook</u>](/cooking/) or watch movies.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

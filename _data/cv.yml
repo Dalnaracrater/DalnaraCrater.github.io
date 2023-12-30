@@ -21,13 +21,13 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Bacheor of Science and Engineering
+    - title: Bacheor of Science degree
       institution: Dongguk University, Seoul, Republic of Korea
       year: 2021
       description:
         - Computer Science and Engineering
         - Advised by Prof. Yunsik Son
-        - I was on leave due to my military service
+        - I was on leave to fulfill my military duty from 2017 to 2019
 
 - title: Experience
   type: time_table
@@ -69,6 +69,15 @@
         - Deal with computer emergent accidents
         - Audit other soldiers (from staff sergeant to lieutenant colonel) whether they consistently comply with security rules or not
 
+# - title: Skills
+#   type: map
+#   contents:
+#     - name: Languages
+#       value: C/C++. Python, R, Haskell, Scala, Java
+#     - name: Frameworks
+#       value: MLIR, LLVM, Pytorch, Django
+#     - name: Etc
+#       value: Code optimization, Static analysis, Cryptography
 
 # - title: Open Source Projects
 #   type: time_table
@@ -109,7 +118,7 @@
       items: 
         - Industrial engineer information secuirty, Korea Internet & Security Agency (KISA)
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
