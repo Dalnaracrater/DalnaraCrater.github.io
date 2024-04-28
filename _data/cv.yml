@@ -77,9 +77,9 @@
   contents:
     - title: Research Member
       institution: Ian Davidson's lab, UC Davis
-      year: 2022 - Present
+      year: 2022 - 2024
       description:
-        - Study fairness in machine learning (deep clustering, unsupervised learning) and constraint programming
+        - Studied fairness in machine learning (deep clustering, unsupervised learning) and constraint programming
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -87,10 +87,9 @@
         #     - Sub-description 2.
     - title: Vice President
       institution: Korean Graduate Student Assoication @ UC Davis
-      year: 2022 - Present
+      year: 2022 - 2024
       description:
-        - Organize events for Korean graduate students (ms, phd, post-doc, visiting scholar)
-        - Get sponsorship from various organizations
+        - Organized events for Korean graduate students (ms, phd, post-doc, visiting scholar)
 
     - title: Research Assistant
       institution: Programming Language and Secure Software lab, Dongguk University
@@ -112,15 +111,17 @@
         - Dealt with computer emergent accidents
         - Audited other soldiers (from staff sergeant to lieutenant colonel) whether they consistently comply with security rules or not
 
-# - title: Skills
-#   type: map
-#   contents:
-#     - name: Languages
-#       value: C/C++. Python, R, Scala, Java, Rust
-#     - name: Frameworks
-#       value: MLIR, LLVM, Pytorch, Django
-#     - name: Etc
-#       value: Code optimization, Static analysis, Cryptography
+- title: Skills
+  type: map
+  contents:
+    - name: Languages
+      value: C/C++. Python, R, Scala, Java
+    - name: Frameworks
+      value: LLVM, Pytorch, Sklearn
+    - name: Solvers
+      value: Z3-SAT/SMT solver, Gurobi-ILP solver
+    - name: Etc
+      value: Code optimization, program analysis, Cryptography
 
 # - title: Open Source Projects
 #   type: time_table

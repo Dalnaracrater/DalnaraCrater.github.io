@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 My research goal is to verify programs and develop reliable and secure software with provable solutions through AI-based program synthesis and formal verification.
 
-I am interested in programming language (formal verification, program synthesis, program repair, compiler optimization), constraint programming, fairness in machine learning, and cyber security for reliable and secure software.
+I am interested in programming language (formal verification, program synthesis, program repair, compiler optimization), deep learning verification, and cyber security for reliable and secure software.
 
-Currently, I am a Master's student in Computer Science at University of California, Davis advised by [Prof. Ian Davidson](https://www.cs.ucdavis.edu/~davidson/). Under supervision of Prof. Davidson, I study deep fair clustering and constraints programing building on my previous experience. I obtained my Bachelor's degree in Computer Science and Engineering at Dongguk University. [Prof. Yunsik Son](https://sites.google.com/dgu.ac.kr/plass/english?authuser=0) opened my eyes to programming language and related research area.
+I earned a Master's student in Computer Science at University of California, Davis advised by [Prof. Ian Davidson](https://www.cs.ucdavis.edu/~davidson/). Under supervision of Prof. Davidson, I studied deep fair clustering and constraints programing building on my previous experience. I obtained my Bachelor's degree in Computer Science and Engineering at Dongguk University. [Prof. Yunsik Son](https://sites.google.com/dgu.ac.kr/plass/english?authuser=0) opened my eyes to programming language and related research area.
 
 In my free time, I usually [<u>cook</u>](/cooking/) or watch movies.
 
